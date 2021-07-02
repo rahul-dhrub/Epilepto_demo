@@ -10,7 +10,7 @@
   <img src="./images/7.jpg" width="100" title="hover text"> 
   <img src="./images/8.jpg" width="100" title="hover text"> 
   <img src="./images/9.jpg" width="100" title="hover text"> 
-    <img src="./images/10.jpg" width="100" title="hover text"> 
+   <img src="./images/10.jpg" width="100" title="hover text"> 
   <img src="./images/12.jpg" width="100" title="hover text"> 
   <img src="./images/13.jpg" width="100" title="hover text"> 
   <img src="./images/14.jpg" width="100" title="hover text"> 
